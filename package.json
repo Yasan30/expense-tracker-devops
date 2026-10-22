@@ -1,0 +1,1 @@
+{"name":"expense-tracker-devops","version":"1.0.0","description":"Expense Tracker DevOps learning project","main":"server.js","scripts":{"start":"node server.js","test":"node --test"},"dependencies":{"express":"^4.21.2"}}
